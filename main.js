@@ -1,4 +1,4 @@
-document.write("3.Write a program to get the first element of an array. Passing the parameter 'n' will return the first 'n' elements of the array."+"<br>");
+document.write("Write a program to get the first element of an array. Passing the parameter 'n' will return the first 'n' elements of the array."+"<br>");
 function test3(arr,n){
     if(n==null){
         return arr[0];
